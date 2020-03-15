@@ -8,10 +8,10 @@ line7
 
 topic-A
 
-<<<<<<< HEAD
 topic-B
 
 topic-c
-=======
+
 topic-BBB
->>>>>>> topic-B
+
+topic-A+
